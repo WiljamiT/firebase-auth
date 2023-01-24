@@ -1,0 +1,11 @@
+.navBar {
+    border: 1px solid black;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    background: grey;
+}

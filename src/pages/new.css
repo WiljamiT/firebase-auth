@@ -1,0 +1,16 @@
+img {
+    width: auto;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: green;
+    cursor: pointer;
+}
+
+.button:disabled {
+    background-color: red;
+    cursor: not-allowed;
+}
